@@ -16,7 +16,7 @@ Junior Web Developer based in Kabul, Afghanistan. Computer Science student (4th 
 
 ## Find me
 - Portfolio: https://noorcode.tech/
-- LinkedIn: https://www.linkedin.com/in/haidar-zada-44863142b
+- LinkedIn: https://www.linkedin.com/in/noorullah-haidari-44863142b
 - Email: haidarzada987@gmail.com
 
 Open to remote junior / entry-level developer roles and internships.
