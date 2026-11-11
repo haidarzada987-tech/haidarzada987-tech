@@ -12,10 +12,10 @@ Junior Web Developer based in Kabul, Afghanistan. Computer Science student (4th 
 ## Featured projects
 - **[Toba Studio](https://github.com/haidarzada987-tech/Toba-Studio)** — Digital services platform (AI premium accounts, virtual cards, design services). React + TypeScript frontend, Express + SQLite backend, JWT email auth, HesabPay payments, admin panel, 4 languages.
 - **[BMI Pro](https://github.com/haidarzada987-tech/BMI-Pro)** — Local-first Flutter mobile app (Android/iOS) for BMI & wellness tracking: BMI/BMR/TDEE, weight history with charts, 7 languages including Dari and Arabic (RTL).
-- **[Portfolio website](https://haidarzada987-tech.github.io/noorcode/)** — My personal site with projects, skills and contact form.
+- **[Portfolio website](https://noorcode.tech/)** — My personal site with projects, skills and contact form.
 
 ## Find me
-- Portfolio: https://haidarzada987-tech.github.io/noorcode/
+- Portfolio: https://noorcode.tech/
 - LinkedIn: https://www.linkedin.com/in/haidar-zada-44863142b
 - Email: haidarzada987@gmail.com
 
